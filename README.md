@@ -7,6 +7,8 @@ Projeto prático em Java com foco em POO.
 
 ### Features
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [x] Criação do Pedido
+- [ ] Item do Pedido
+- [ ] Produto
+- [ ] Cliente
+- [ ] Pessoa
